@@ -6,20 +6,23 @@
   
   <p>I study C++, have the basics of HTML and CSS.</p>
   
-<<<<<<< HEAD
-  <code>#include &lt;iostream>
- 
-using namespace std;
- 
-int main()
-{
-    long long a, b, c, d;
-    cin >> a >> b >> c >> d;
-    for (int x = -100; x <= 100; x++)
-        if (a * x * x * x + b * x * x + c * x + d == 0)
-            cout << x << " ";
-    return 0;
-}</code>
+<pre>
+  <code>
+    #include <span>&lt;iostream&gt;</span>
+
+     using namespace std;
+                                 
+     int main()
+                      {
+      long long a, b, c, d;
+      cin >> a >> b >> c >> d;
+      for (int x = -100; x &lt;&equals; 100; x++)
+      if (a * x * x * x + b * x * x + c * x + d == 0)
+      cout &lt;&lt; x &lt;&lt; " ";
+      return 0;
+      }
+  </code>
+</pre>
 
   CV
   
