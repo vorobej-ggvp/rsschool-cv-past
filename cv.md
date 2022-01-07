@@ -6,6 +6,7 @@
   
   <p>I study C++, have the basics of HTML and CSS.</p>
   
+<<<<<<< HEAD
   <code>#include &lt;iostream>
  
 using namespace std;
@@ -19,7 +20,7 @@ int main()
             cout << x << " ";
     return 0;
 }</code>
-  
+
   CV
   
   I'm taking an RS school course.
