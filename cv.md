@@ -6,7 +6,6 @@
   
   <p>I study C++, have the basics of HTML and CSS.</p>
   
-<<<<<<< HEAD
 <pre>
   <code>
     #include <span>&lt;iostream&gt;</span>
@@ -23,22 +22,6 @@
       return 0;
       }
   </code>
-=======
-  <pre>
-    <code>#include &lt;iostream&gt;
- 
-    using namespace std;
- 
-    int main()
-    {
-        long long a, b, c, d;
-        cin >> a >> b >> c >> d;
-        for (int x = -100; x &lt;= 100; x++)
-            if (a * x * x * x + b * x * x + c * x + d == 0)
-                cout &lt;&lt; x &lt;&lt; " ";
-        return 0;
-  }</code>
->>>>>>> 71c0a80a9ab9595437b149bdd1df35ed7e29d6a0
 </pre>
 
   CV
